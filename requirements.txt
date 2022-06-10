@@ -1,0 +1,9 @@
+PySimpleGUI
+pygame
+simpleaudio
+pyAudioAnalysis
+numpy
+matplotlib
+scipy
+gsl
+scikit-learn
